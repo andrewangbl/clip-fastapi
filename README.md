@@ -64,7 +64,7 @@ Probability Calculation: The similarities are converted to probabilities using a
 This approach allows the model to find the best textual description (from the provided list) that matches the input image.
 
 
-##Setup and Deployment
+## Setup and Deployment
 1. Build the Docker image using the provided Dockerfile.
 2. Push the image to Amazon ECR (Elastic Container Registry).
 3. Create an ECS cluster and task definition using the ECR image.
