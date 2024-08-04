@@ -1,0 +1,41 @@
+apple
+banana
+orange
+tomato
+bell pepper
+potato
+onion
+garlic
+milk
+egg
+bread
+butter
+chicken
+beef
+fish
+salt
+pepper
+olive oil
+baking powder
+flour
+sugar
+candy
+chocolate
+coffee
+tea
+juice
+soda
+water
+soy Sauce
+cabbage
+carrot
+broccoli
+cauliflower
+lettuce
+spinach
+mushroom
+pasta
+rice
+cheese
+fish
+sauce

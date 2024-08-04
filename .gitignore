@@ -1,0 +1,17 @@
+# Ignore the entire venv directory
+venv/
+
+# Python-related files
+*.pyc
+__pycache__/ß
+*.pyo
+
+# OS-generated files
+.DS_Store
+
+# Project-specific ignores
+clip
+app/serviceAccountKey.json
+
+# Ignore all .dylib files
+*.dylib
