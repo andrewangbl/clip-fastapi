@@ -6,7 +6,7 @@ This project implements an image recognition API using OpenAI's CLIP (Contrastiv
 ## Pipeline on AWS ECS
 1. Docker Container: The application is containerized using Docker. The Dockerfile is used to build the image, which includes all necessary dependencies and the application code.
 
-'''
+```
 # Use an official Python runtime as a parent image
 FROM python:3.11-slim
 
@@ -27,7 +27,7 @@ COPY ./app/ /code/app/
 
 # specify default command
 CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "80"]
-'''
+```
 
 2. AWS ECS Cluster: The Docker container is deployed to an ECS cluster, which manages the container instances.
 
